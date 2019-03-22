@@ -1,7 +1,7 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+# Do not rely upon. This is not medical advice. I am not a doctor. Go to a doctor if you think you may have skin cancer or other skin problem.
 
-This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
+Deploys skin leison dection app. 
 
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
+The sample app described here is up at https://render-skin.onrender.com. 
 
-The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
+Made with render and fastai.
