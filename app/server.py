@@ -9,7 +9,7 @@ from fastai import *
 from fastai.vision import *
 
 export_file_url = 'https://drive.google.com/uc?export=download&id=1-1YsNb182_z3NeFSWJK1CMn8jEuZUtXD'
-export_file_name = 'export.pkl'
+export_file_name = 'export2.pkl'
 
 classes = ['Melanocytic nevi', 'Melanoma', 
     'Benign keratosis', 'Basal cell carcinoma',  
