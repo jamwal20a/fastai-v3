@@ -11,9 +11,9 @@ from fastai.vision import *
 export_file_url = 'https://drive.google.com/uc?export=download&id=1-OWjDeN6giLZjeUgNpmNnQT3_hGMXK5d'
 export_file_name = 'export2.pkl'
 
-classes = ['Melanocytic nevi', 'Melanoma', 
-    'Benign keratosis', 'Basal cell carcinoma',  
-    'Actinic keratoses', 'Vascular lesions', 'Dermatofibroma' ]
+classes = ['cardboard', 'glass', 
+    'paper', 'plastic',  
+    'metal', 'trash' ]
 path = Path(__file__).parent
 
 app = Starlette()
