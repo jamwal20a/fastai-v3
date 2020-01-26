@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1-1YsNb182_z3NeFSWJK1CMn8jEuZUtXD'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1-OWjDeN6giLZjeUgNpmNnQT3_hGMXK5d'
 export_file_name = 'export2.pkl'
 
 classes = ['Melanocytic nevi', 'Melanoma', 
